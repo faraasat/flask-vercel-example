@@ -1,6 +1,6 @@
 # Flask Vercel Example
 
-### Example Code for Article: Simple Guide on Deploying Python Flask API on Vercel — Free of Cost
+### This Example Code is a Part of an Article: Simple Guide on Deploying Python Flask API on Vercel — Free of Cost
 
 <hr />
 
@@ -10,7 +10,7 @@
 <hr />
 
 ### Introduction:
-Whether you’re working on a hobby project or a professional endeavor, deployment is essential. Flask, a lightweight and versatile Python web framework, is commonly used for building web applications due to its simplicity and flexibility. In this guide, we’ll explore deploying a Python Flask API on Vercel, a platform that offers straightforward deployment with continuous integration, and the best part—it’s free!
+Whether you’re working on a hobby project or a professional endeavor, deployment is essential. Flask, a lightweight and versatile Python web framework, is commonly used for building web applications due to its simplicity and flexibility. In this guide, we’ll explore deploying a Python Flask API on Vercel, a platform that offers straightforward deployment with continuous integration, and the best part — it’s free!
 
 ### Steps for Deployment:
 
@@ -22,7 +22,7 @@ Whether you’re working on a hobby project or a professional endeavor, deployme
 - Specify your app’s dependencies in a requirements.txt file.
 - Install the dependencies using pip install -r requirements.txt.
 #### 3. Write the API:
-- Create an api directory (or any name you prefer).
+- Create an /api directory (or any name you prefer).
 - Inside this directory, create an index.py file with your Flask API code.
 - Define routes and handlers (e.g., a simple home route and a 404 error handler).
 #### 4. Configure .gitignore:
